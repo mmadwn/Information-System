@@ -1,4 +1,1 @@
-# About
-Information Systems - Voucher Game Shop Using PHP and phpMyAdmin
-
-This software based on local web. Built using PHP Language and phpMyAdmin to manage the database. The program manages sales and purchase electronic vouchers
+This Github repository contains a web-based information system built with PHP and MySQL. The system is designed to facilitate the sales of game vouchers through a user-friendly interface. The application leverages the power of PHP to handle server-side operations and MySQL to store and manage the vouchers information. The system is highly scalable, allowing it to grow and accommodate an increasing number of users and transactions. With its robust and efficient design, this information system is the perfect solution for anyone looking to sell game vouchers online
