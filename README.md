@@ -1,5 +1,5 @@
 # Game Voucher Sales System
-#### A web-based information system designed to facilitate the sales of game vouchers. Built with PHP and MySQL, this system offers a user-friendly interface and efficient solution for selling game vouchers online.
+A web-based information system designed to facilitate the sales of game vouchers. Built with PHP and MySQL, this system offers a user-friendly interface and efficient solution for selling game vouchers online.
 
 # Features
 * Web-based interface built with PHP
